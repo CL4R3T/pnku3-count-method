@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments / dotenv
+env/
+venv/
+.env
+.env.*
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
